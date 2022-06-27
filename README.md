@@ -14,8 +14,7 @@ Soldest 2Team SwingProject(2022.06.20 ~ 2022.07.04)
 # About Project   
 ## 프로젝트 정보  
 ### 사용 언어  
-<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-#F80000.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Oracle-#F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 
 
 # 프로젝트 결과물  
