@@ -1,7 +1,7 @@
 # Project Description  
 ## 프로젝트 이름  
 Soldest 2Team SwingProject(2022.06.20 ~ 2022.07.04)  
-김남욱 ([namwook1101](https://github.com/namwook1101))
+김남욱 ([namwook1101](https://github.com/namwook1101))  
 김민우 ([skkdkmw](https://github.com/skkdkmw))  
 고민훈 ([minhungo](https://github.com/minhungo))  
 제신우 ([bellsoon](https://github.com/bellsoon))  
