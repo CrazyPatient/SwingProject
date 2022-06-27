@@ -1,11 +1,11 @@
 # Project Description  
 ## 프로젝트 이름  
 Soldest 2Team SwingProject(2022.06.20 ~ 2022.07.04)  
-김남욱  
-김민우 [skkdkmw](https://github.com/skkdkmw)  
-고민훈  
-제신우  
-홍광택 [CrazyPatient]https://github.com/CrazyPatient  
+김남욱 ([namwook1101](https://github.com/namwook1101))
+김민우 ([skkdkmw](https://github.com/skkdkmw))  
+고민훈 ([minhungo](https://github.com/minhungo))  
+제신우 ([bellsoon](https://github.com/bellsoon))  
+홍광택 ([CrazyPatient]https://github.com/CrazyPatient)  
 
 
 
@@ -14,7 +14,7 @@ Soldest 2Team SwingProject(2022.06.20 ~ 2022.07.04)
 # About Project   
 ## 프로젝트 정보  
 ### 사용 언어  
-
+<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-#F80000.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 
 
