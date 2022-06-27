@@ -5,7 +5,7 @@ Soldest 2Team SwingProject(2022.06.20 ~ 2022.07.04)
 김민우 ([skkdkmw](https://github.com/skkdkmw))  
 고민훈 ([minhungo](https://github.com/minhungo))  
 제신우 ([bellsoon](https://github.com/bellsoon))  
-홍광택 ([CrazyPatient]https://github.com/CrazyPatient)  
+홍광택 ([CrazyPatient](https://github.com/CrazyPatient)  
 
 
 
