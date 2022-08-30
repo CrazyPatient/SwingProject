@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="co.sol.knw.dao.IBoardDAO">
+
+	<select id="list" resultType="co.sol.knw.dto.BoardDTO">
+		select * from tt_board order by
+		board_date desc
+	</select>
+
+
+	<insert id="write">
+		insert into tt_board (board_idx,
+		board_name,board_title,board_content,board_date)
+		values
+		(tt_board_seq.nextval, #{param1},#{param2},#{param3}, sysdate)
+	</insert>
+
+
+	<select id="viewDTO" resultType="co.sol.knw.dto.BoardDTO"><!-- content -->
+		select * from tt_board where board_idx=#{ param1 }
+	</select>
+
+
+	<update id="updateDTO"><!-- 게시글 수정 -->
+		update tt_board set
+		board_name=#{param2},board_title=#{param3},board_content=#{param4}
+		where board_idx=#{param1}
+	</update>
+
+
+
+	<delete id="deleteDTO"><!-- 게시글 삭제 -->
+		delete from tt_board where board_idx=#{param1}
+	</delete>
+
+
+
+	<update id="hit"><!--조회수 -->
+		update tt_board set board_hit=board_hit+1 where board_idx=#{param1}
+	</update>
+
+</mapper>
+
